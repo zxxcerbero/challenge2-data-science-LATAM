@@ -53,5 +53,6 @@ Se implementó un modelo de clasificación basado en **Random Forest** para pred
 *   **Estrategia Multi-producto:** Ofrecer servicios de valor añadido (seguridad, respaldo) para aumentar el costo de cambio del usuario.
 
 ---
-**Autor:** Yerson Elias Incahuaman Juro 
+**Autor:** Yerson Elias Incahuaman Juro
+
 **Fecha:** Diciembre 2025
